@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabTumakov5", "LabTumakov5\LabTumakov5.csproj", "{F6C54322-AAFE-401B-81B4-71D9E4677635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadachi5", "Zadachi5\Zadachi5.csproj", "{A970E0D0-1D30-492D-A365-B539EC6BA5C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C54322-AAFE-401B-81B4-71D9E4677635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C54322-AAFE-401B-81B4-71D9E4677635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C54322-AAFE-401B-81B4-71D9E4677635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C54322-AAFE-401B-81B4-71D9E4677635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A970E0D0-1D30-492D-A365-B539EC6BA5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A970E0D0-1D30-492D-A365-B539EC6BA5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A970E0D0-1D30-492D-A365-B539EC6BA5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A970E0D0-1D30-492D-A365-B539EC6BA5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BCD104-DEB0-4FFC-8D30-25D80046330F}
+	EndGlobalSection
+EndGlobal
